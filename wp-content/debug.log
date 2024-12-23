@@ -1,0 +1,68 @@
+[17-Dec-2024 14:18:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\metzer-website\wp-includes\class-wpdb.php on line 1982
+[17-Dec-2024 15:14:15 UTC] WordPress database error Table 'metzer.wp_blogs' doesn't exist in engine for query SELECT  wp_blogs.blog_id
+			 FROM wp_blogs 
+			 WHERE domain = 'localhost' AND path IN ( '/metzer-website/', '/' )
+			 
+			 ORDER BY CHAR_LENGTH(path) DESC
+			 LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), require('wp-includes/ms-settings.php'), ms_load_current_site_and_network, get_site_by_path, get_sites, WP_Site_Query->query, WP_Site_Query->get_sites, WP_Site_Query->get_site_ids
+[17-Dec-2024 15:14:38 UTC] WordPress database error Table 'metzer.wp_blogs' doesn't exist in engine for query SELECT  wp_blogs.blog_id
+			 FROM wp_blogs 
+			 WHERE domain = 'localhost' AND path IN ( '/metzer-website/', '/' )
+			 
+			 ORDER BY CHAR_LENGTH(path) DESC
+			 LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), require('wp-includes/ms-settings.php'), ms_load_current_site_and_network, get_site_by_path, get_sites, WP_Site_Query->query, WP_Site_Query->get_sites, WP_Site_Query->get_site_ids
+[17-Dec-2024 15:15:43 UTC] WordPress database error Table 'metzer.wp_blogs' doesn't exist in engine for query SELECT  wp_blogs.blog_id
+			 FROM wp_blogs 
+			 WHERE domain = 'localhost' AND path IN ( '/metzer-website/', '/' )
+			 
+			 ORDER BY CHAR_LENGTH(path) DESC
+			 LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), require('wp-includes/ms-settings.php'), ms_load_current_site_and_network, get_site_by_path, get_sites, WP_Site_Query->query, WP_Site_Query->get_sites, WP_Site_Query->get_site_ids
+[17-Dec-2024 15:15:44 UTC] WordPress database error Table 'metzer.wp_blogs' doesn't exist in engine for query SELECT  wp_blogs.blog_id
+			 FROM wp_blogs 
+			 WHERE domain = 'localhost' AND path IN ( '/metzer-website/', '/' )
+			 
+			 ORDER BY CHAR_LENGTH(path) DESC
+			 LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), require('wp-includes/ms-settings.php'), ms_load_current_site_and_network, get_site_by_path, get_sites, WP_Site_Query->query, WP_Site_Query->get_sites, WP_Site_Query->get_site_ids
+[18-Dec-2024 07:35:16 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\metzer-website\wp-includes\functions.php on line 6114
+[18-Dec-2024 07:35:16 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\metzer-website\wp-includes\functions.php on line 6114
+[18-Dec-2024 07:35:16 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\metzer-website\wp-includes\functions.php on line 6114
+[18-Dec-2024 09:28:36 UTC] Automatic updates starting...
+[18-Dec-2024 09:28:36 UTC]   Automatic plugin updates starting...
+[18-Dec-2024 09:28:36 UTC]   Automatic plugin updates complete.
+[18-Dec-2024 09:28:36 UTC] Automatic updates complete.
+[18-Dec-2024 10:20:12 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:20:12 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:20:12 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:21:56 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:21:56 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:21:56 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:22:03 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:22:03 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:22:03 UTC] PHP Warning:  Undefined variable $event_date_time in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 34
+[18-Dec-2024 10:24:00 UTC] PHP Warning:  Undefined variable $acf_datetime in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 53
+[18-Dec-2024 10:24:00 UTC] PHP Fatal error:  Cannot redeclare format_acf_datetime() (previously declared in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php:19) in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 19
+[18-Dec-2024 10:24:12 UTC] PHP Fatal error:  Cannot redeclare format_acf_datetime() (previously declared in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php:19) in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 19
+[18-Dec-2024 10:24:20 UTC] PHP Fatal error:  Cannot redeclare format_acf_datetime() (previously declared in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php:19) in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 19
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Undefined variable $project in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 66
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 66
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Undefined variable $project in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 66
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 66
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Undefined variable $project in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 66
+[18-Dec-2024 11:38:12 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\template-parts\content-event-card.php on line 66
+[18-Dec-2024 11:42:50 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[18-Dec-2024 11:42:50 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[18-Dec-2024 11:42:50 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[18-Dec-2024 11:43:15 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[18-Dec-2024 11:43:15 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[18-Dec-2024 11:43:15 UTC] PHP Warning:  Undefined array key "events_group" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\helper.php on line 9
+[19-Dec-2024 07:06:23 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\metzer-website\wp-includes\functions.php on line 6114
+[19-Dec-2024 07:06:23 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\metzer-website\wp-includes\functions.php on line 6114
+[19-Dec-2024 07:06:23 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\metzer-website\wp-includes\functions.php on line 6114
+[19-Dec-2024 09:28:03 UTC] Automatic updates starting...
+[19-Dec-2024 09:28:03 UTC]   Automatic plugin updates starting...
+[19-Dec-2024 09:28:03 UTC]   Automatic plugin updates complete.
+[19-Dec-2024 09:28:04 UTC] Automatic updates complete.
+[19-Dec-2024 12:22:00 UTC] PHP Warning:  Undefined array key "preview_image_help" in C:\xampp\htdocs\metzer-website\wp-content\themes\whitewebworx\inc\acf-functions.php on line 6
